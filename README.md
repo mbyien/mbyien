@@ -1,7 +1,9 @@
 <h2 align="center">🧠 My GitHub Contributions</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mbyien/mbyien/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/mbyien/mbyien/output/github-contribution-grid-snake.svg)
 <!--
 **mbyien/mbyien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
