@@ -5,7 +5,7 @@ I’m a systems-level developer who loves building fast, low-level tools. Passio
 ## 📈 GitHub Stats
 
 ![Mbyien's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbyien&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbyien&layout=compact&theme=github_dark)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbyien&layout=compact&theme=github_dark)-->
 
 
 <h2 align="center">🧠 My GitHub Contributions</h2>
