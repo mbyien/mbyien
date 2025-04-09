@@ -1,3 +1,7 @@
+# 👋 Hi, I'm Mbyien
+
+I’m a systems-level developer who loves building fast, low-level tools. Passionate about embedded firmware, working on machine learning algorithms, and writing efficient, clean code.
+
 <h2 align="center">🧠 My GitHub Contributions</h2>
 
 <p align="center">
