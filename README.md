@@ -4,8 +4,6 @@
   <img src="https://raw.githubusercontent.com/mbyien/mbyien/main/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/mbyien/mbyien/main/dist/github-contribution-grid-snake-dark.svg)
-
 <!--
 **mbyien/mbyien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
