@@ -17,7 +17,7 @@ I’m a systems-level developer who loves building fast, low-level tools. Passio
 
 ## 📫 Contact
 
-- 📧 Email: mbyien@gmail.com
+- 📧 Email: mbyien at gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mbyien](https://linkedin.com/in/mbyien)
 
 ## 🌱 Fun Facts
