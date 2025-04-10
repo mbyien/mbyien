@@ -2,9 +2,9 @@
 
 I’m a systems-level developer who loves building fast, low-level tools. Passionate about embedded firmware, working on machine learning algorithms, and writing efficient, clean code. I plan to start publishing projects I've been working on and making public contributions to open source projects.
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
-![Mbyien's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbyien&show_icons=true&theme=github_dark)
+![Mbyien's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbyien&show_icons=true&theme=github_dark)-->
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbyien&layout=compact&theme=github_dark)-->
 
 
