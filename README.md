@@ -21,7 +21,7 @@ I’m a systems-level developer who loves building fast, low-level tools. Passio
 - 💼 LinkedIn: [linkedin.com/in/mbyien](https://linkedin.com/in/mbyien)
 
 ## 🌱 Fun Facts
-- 🔭 I’m currently developing VADER- and BERTHA-based models for sentiment analysis of customer reviews.
+- 🔭 I’m currently working on developing CUDA applications
 
 
 <!--
