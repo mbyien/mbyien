@@ -20,8 +20,6 @@ I’m a systems-level developer who loves building fast, low-level tools. Passio
 - 📧 Email: mbyien at gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mbyien](https://linkedin.com/in/mbyien)
 
-## 🌱 Fun Facts
-- 🔭 I’m currently working on developing CUDA applications
 
 
 <!--
